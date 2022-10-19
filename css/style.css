@@ -1,0 +1,26 @@
+
+p{
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+}
+
+table,td{
+    border: 0.2px;
+    margin: auto;
+    margin-top: 26px;
+    border-style: ridge;
+    border-color: black;
+    background-color: rgb(230, 219, 170);
+}
+
+td{
+    text-align: center;
+    width: 55px;
+    font-size: 20px;
+    height: 48px;
+}
+
+#comida{
+    background-color: #990a00;
+}
